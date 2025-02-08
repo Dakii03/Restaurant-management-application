@@ -1,0 +1,15 @@
+# Ignore compiled files and dependencies
+*.o
+*.exe
+*.obj
+*.dll
+*.so
+*.dylib
+*.pdb
+*.pyc
+__pycache__/
+venv/
+build/
+dist/
+.vscode/
+.idea/
